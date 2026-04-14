@@ -14,7 +14,7 @@ These are the most important/recent projects I have done:</br></br>
 - 05: exceptions
 - 06: type casting
 - 07: templates
-- 08: STL containers and algorithms
+- [08](https://github.com/p-zsofi-a-42/cpp08): STL containers and algorithms
 - [09](https://github.com/p-zsofi-a-42/cpp09): own sorting algorithm implementation
 
 **Python**
