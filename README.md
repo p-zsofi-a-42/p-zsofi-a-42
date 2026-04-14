@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-I am a student at 42 Vienna, learning C and C++.
-
-Most important/recent porjects I have done:</br>
-*C*</br>
+I am Zsofi, a student at 42 Vienna, learning C and C++.
+These are the most important/recent porjects I have done:</br></br>
+**C**</br>
 - cube3d: raycasting / 3D game to walk around in a room
 - philosophers: multi-threaded program
 
-*C++*</br>
+**C++**</br>
 - (00, 01 getting familiar with the language)
 - 02: operator overload
 - 03: inheritance
@@ -18,7 +17,7 @@ Most important/recent porjects I have done:</br>
 - 08: STL containers and algorithms
 - [09](https://github.com/p-zsofi-a-42/cpp09): own sorting algorithm implementation
 
-*Python*
+**Python**
 - [TIN-verification](https://github.com/p-zsofi-a-42/TIN-verification): information retrieval and customer data verification pipeline (real life use case)
 
 <!--
