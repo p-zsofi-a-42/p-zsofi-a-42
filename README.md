@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am Zsofi, a student at 42 Vienna, learning C and C++.
-These are the most important/recent porjects I have done:</br></br>
+These are the most important/recent projects I have done:</br></br>
 **C**</br>
 - cube3d: raycasting / 3D game to walk around in a room
 - philosophers: multi-threaded program
