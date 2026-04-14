@@ -1,5 +1,26 @@
 ## Hi there 👋
 
+I am a student at 42 Vienna, learning C and C++.
+
+Most important/recent porjects I have done:</br>
+*C*</br>
+- cube3d: raycasting / 3D game to walk around in a room
+- philosophers: multi-threaded program
+
+*C++*</br>
+- (00, 01 getting familiar with the language)
+- 02: operator overload
+- 03: inheritance
+- 04: polymorphism, abstract class
+- 05: exceptions
+- 06: type casting
+- 07: templates
+- 08: STL containers and algorithms
+- [09](https://github.com/p-zsofi-a-42/cpp09): own sorting algorithm implementation
+
+*Python*
+- [TIN-verification](https://github.com/p-zsofi-a-42/TIN-verification): information retrieval and customer data verification pipeline (real life use case)
+
 <!--
 **p-zsofi-a-42/p-zsofi-a-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
