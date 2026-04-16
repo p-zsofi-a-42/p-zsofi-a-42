@@ -10,15 +10,15 @@ These are the most important/recent projects I have done *(Readmes are unfortuna
 - (00, 01 getting familiar with the language)
 - 02: operator overload
 - 03: inheritance
-- 04: polymorphism, abstract class
-- 05: exceptions
+- [04](https://github.com/p-zsofi-a-42/cpp04): polymorphism, abstract class
+- [05](https://github.com/p-zsofi-a-42/cpp05): exceptions
 - [06](https://github.com/p-zsofi-a-42/cpp06): type casting
 - [07](https://github.com/p-zsofi-a-42/cpp07): templates
 - [08](https://github.com/p-zsofi-a-42/cpp08): STL containers and algorithms
-- [09](https://github.com/p-zsofi-a-42/cpp09): own sorting algorithm implementation
+- [09](https://github.com/p-zsofi-a-42/cpp09): own sorting algorithm implementation + automatic tester
 
 **Python**
-- [TIN-verification](https://github.com/p-zsofi-a-42/TIN-verification): information retrieval and customer data verification pipeline (real life use case)
+- [TIN-verification](https://github.com/p-zsofi-a-42/TIN-verification): information retrieval and customer data verification pipeline (real-life use case)
 
 <!--
 **p-zsofi-a-42/p-zsofi-a-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
